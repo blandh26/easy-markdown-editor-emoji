@@ -22,9 +22,8 @@ easyMDE: 필수, 초기화된 EasyMDE 에디터 인스턴스
 
 **체험해보기**: 편집기에서 이모티콘 삽입 →
 
-
-
-
+![](https://github.com/blandh26/easy-markdown-editor-emoji/blob/main/1.png)
+![](https://github.com/blandh26/easy-markdown-editor-emoji/blob/main/2.png)
 # EasyMDE 表情插件优化版
 
 基于 EasyMDE 2.20 版本开发（框架主体未做任何修改），此版本通过添加 easymde.emoji.js 文件扩展了表情功能。
